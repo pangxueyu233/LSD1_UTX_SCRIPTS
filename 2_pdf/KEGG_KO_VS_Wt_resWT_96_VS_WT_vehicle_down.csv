@@ -1,0 +1,4 @@
+"","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"mmu04670","mmu04670","Leukocyte transendothelial migration","1/1","115/8275",0.0138972809667673,0.0259818731117825,NA,"17907",1
+"mmu04510","mmu04510","Focal adhesion","1/1","199/8275",0.0240483383685801,0.0259818731117825,NA,"17907",1
+"mmu04810","mmu04810","Regulation of actin cytoskeleton","1/1","215/8275",0.0259818731117825,0.0259818731117825,NA,"17907",1

@@ -1,0 +1,6 @@
+"","ONTOLOGY","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"GO:0001608","MF","GO:0001608","G protein-coupled nucleotide receptor activity","2/4","12/22744",1.53022722905528e-06,1.0711590603387e-05,5.63767926494052e-06,"P2ry12/P2ry13",2
+"GO:0045028","MF","GO:0045028","G protein-coupled purinergic nucleotide receptor activity","2/4","12/22744",1.53022722905528e-06,1.0711590603387e-05,5.63767926494052e-06,"P2ry12/P2ry13",2
+"GO:0001614","MF","GO:0001614","purinergic nucleotide receptor activity","2/4","20/22744",4.40313313922498e-06,1.54109659872874e-05,8.11103473015127e-06,"P2ry12/P2ry13",2
+"GO:0016502","MF","GO:0016502","nucleotide receptor activity","2/4","20/22744",4.40313313922498e-06,1.54109659872874e-05,8.11103473015127e-06,"P2ry12/P2ry13",2
+"GO:0035586","MF","GO:0035586","purinergic receptor activity","2/4","25/22744",6.95027665102771e-06,1.94607746228776e-05,1.02425129594092e-05,"P2ry12/P2ry13",2
